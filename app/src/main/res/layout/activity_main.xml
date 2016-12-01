@@ -1,0 +1,110 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:background="#006699"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="10dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:id="@+id/txt_back"
+                android:textSize="20dp"
+                android:textColor="#fff"
+                android:background="@drawable/back"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/txt_title"
+                android:layout_weight="1"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:text="Current List"/>
+
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:id="@+id/txt_setting"
+                android:textColor="#fff"
+                android:textSize="20dp"
+                android:background="@drawable/tools"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/drop"/>
+
+            <Spinner
+                android:id="@+id/spList"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/custom_spinner_background"
+                android:layout_width="wrap_content"
+                android:spinnerMode="dropdown"
+                android:layout_height="wrap_content"></Spinner>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:background="#CCCCCC"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_gravity="center">
+
+            <SearchView
+                android:id="@+id/searchView"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp">
+                <TextView
+                    android:id="@+id/txtSearch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:text="Search"/>
+            </SearchView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#fff">
+            <ListView
+                android:id="@+id/listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"></ListView>
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,462 @@
+﻿[
+  {
+    "ctry_cd": "USA",
+    "ctry_kr": "미국",
+    "ctry_en": "United States",
+    "curr_cd": "USD",
+    "curr_name": "US Dollar",
+    "ap_ican": "KLAX",
+    "ap_ct_kr": "캘리포니아주로스앤젤레스",
+    "ap_kr": "로스앤젤레스국제공항"
+  },
+  {
+    "ctry_cd": "EUR",
+    "ctry_kr": "유럽​​ 연합",
+    "ctry_en": " European Union",
+    "curr_cd": "EUR",
+    "curr_name": "Euro",
+    "ap_ican": "EBBR",
+    "ap_ct_kr": "브뤼셀",
+    "ap_kr": "브뤼셀국제공항"
+  },
+  {
+    "ctry_cd": "CHN",
+    "ctry_kr": "중국",
+    "ctry_en": "China",
+    "curr_cd": "CNY",
+    "curr_name": "Yuan Renminbi",
+    "ap_ican": "ZBAA",
+    "ap_ct_kr": "베이징",
+    "ap_kr": "베이징수도국제공항"
+  },
+  {
+    "ctry_cd": "PHL",
+    "ctry_kr": "필리핀",
+    "ctry_en": "Philippines",
+    "curr_cd": "PHP",
+    "curr_name": "Philippine Peso",
+    "ap_ican": "RPVM",
+    "ap_ct_kr": "세부",
+    "ap_kr": "막탄세부국제공항"
+  },
+  {
+    "ctry_cd": "JPN",
+    "ctry_kr": "일본",
+    "ctry_en": "Japan",
+    "curr_cd": "JPY",
+    "curr_name": "Yen",
+    "ap_ican": "RJAA",
+    "ap_ct_kr": "도쿄",
+    "ap_kr": "나리타국제공항"
+  },
+  {
+    "ctry_cd": "KOR",
+    "ctry_kr": "이스라엘",
+    "ctry_en": "South Korea",
+    "curr_cd": "KRW",
+    "curr_name": "South Korean Won",
+    "ap_ican": "SELA",
+    "ap_ct_kr": "텔아비브",
+    "ap_kr": "벤구리온국제공항"
+  },
+  {
+    "ctry_cd": "GBR",
+    "ctry_kr": "영국",
+    "ctry_en": "United Kingdom",
+    "curr_cd": "GBP",
+    "curr_name": "Pound Sterling",
+    "ap_ican": "EGLL",
+    "ap_ct_kr": "런던",
+    "ap_kr": "런던히드로국제공항"
+  },
+  {
+    "ctry_cd": "VNM",
+    "ctry_kr": "베트남",
+    "ctry_en": "Viet Nam",
+    "curr_cd": "VND",
+    "curr_name": "Dong",
+    "ap_ican": "VVDN",
+    "ap_ct_kr": "다낭",
+    "ap_kr": "다낭국제공항"
+  },
+  {
+    "ctry_cd": "THA",
+    "ctry_kr": "태국",
+    "ctry_en": "Thailand",
+    "curr_cd": "THB",
+    "curr_name": "Baht",
+    "ap_ican": "VTBD",
+    "ap_ct_kr": "방콕",
+    "ap_kr": "돈므앙국제공항"
+  },
+  {
+    "ctry_cd": "HKG",
+    "ctry_kr": "홍콩",
+    "ctry_en": "Hongkong",
+    "curr_cd": "HKD",
+    "curr_name": "Hong Kong Dollar",
+    "ap_ican": "VHHH",
+    "ap_ct_kr": "홍콩(중화인민공화국홍콩특별행정구)",
+    "ap_kr": "홍콩국제공항(첵랍콕)"
+  },
+  {
+    "ctry_cd": "CZE",
+    "ctry_kr": "체코",
+    "ctry_en": "Czech Republic",
+    "curr_cd": "CZK",
+    "curr_name": "Czech Koruna",
+    "ap_ican": "LKPR",
+    "ap_ct_kr": "프라하",
+    "ap_kr": "프라하바츨라프하벨국제공항"
+  },
+  {
+    "ctry_cd": "TWN",
+    "ctry_kr": "대만",
+    "ctry_en": "Taiwan",
+    "curr_cd": "TWD",
+    "curr_name": "Taiwan New Dollar",
+    "ap_ican": "RCTP",
+    "ap_ct_kr": "타오위안(타이베이광역권)",
+    "ap_kr": "타이완타오위안국제공항"
+  },
+  {
+    "ctry_cd": "AUS",
+    "ctry_kr": "호주",
+    "ctry_en": "Australia",
+    "curr_cd": "AUD",
+    "curr_name": "Australian Dollar",
+    "ap_ican": "YSSY",
+    "ap_ct_kr": "시드니",
+    "ap_kr": "시드니국제공항"
+  },
+  {
+    "ctry_cd": "MYS",
+    "ctry_kr": "말레이시아",
+    "ctry_en": "Malaysia",
+    "curr_cd": "MYR",
+    "curr_name": "Malaysian Ringgit",
+    "ap_ican": "WMKP",
+    "ap_ct_kr": "페낭",
+    "ap_kr": "피낭국제공항"
+  },
+  {
+    "ctry_cd": "NOR",
+    "ctry_kr": "노르웨이",
+    "ctry_en": "Norway",
+    "curr_cd": "NOK",
+    "curr_name": "Norwegian Krone",
+    "ap_ican": "ENGM",
+    "ap_ct_kr": "오슬로",
+    "ap_kr": "오슬로-가르더모엔국제공항"
+  },
+  {
+    "ctry_cd": "CAN",
+    "ctry_kr": "캐나다",
+    "ctry_en": "Canada",
+    "curr_cd": "CAD",
+    "curr_name": "Canadian Dollar",
+    "ap_ican": "CYVR",
+    "ap_ct_kr": "브리티시컬럼비아주밴쿠버",
+    "ap_kr": "밴쿠버국제공항"
+  },
+  {
+    "ctry_cd": "SGP",
+    "ctry_kr": "싱가포르",
+    "ctry_en": "Singapore",
+    "curr_cd": "SGD",
+    "curr_name": "Singapore Dollar",
+    "ap_ican": "WSSS",
+    "ap_ct_kr": "싱가포르",
+    "ap_kr": "창이국제공항"
+  },
+  {
+    "ctry_cd": "HUN",
+    "ctry_kr": "헝가리",
+    "ctry_en": "Hungary",
+    "curr_cd": "HUF",
+    "curr_name": "Forint",
+    "ap_ican": "LHBP",
+    "ap_ct_kr": "부다페스트",
+    "ap_kr": "부다페스트리스트페렌츠국제공항"
+  },
+  {
+    "ctry_cd": "SWE",
+    "ctry_kr": "스웨덴",
+    "ctry_en": "Sweden",
+    "curr_cd": "SEK",
+    "curr_name": "Swedish Krona",
+    "ap_ican": "ESSA",
+    "ap_ct_kr": "스톡홀름",
+    "ap_kr": "스톡홀름-아를란다국제공항"
+  },
+  {
+    "ctry_cd": "CHE",
+    "ctry_kr": "스위스",
+    "ctry_en": "Switzerland",
+    "curr_cd": "CHF",
+    "curr_name": "Swiss Franc",
+    "ap_ican": "LSZH",
+    "ap_ct_kr": "취리히",
+    "ap_kr": "취리히국제공항"
+  },
+  {
+    "ctry_cd": "RUS",
+    "ctry_kr": "러시아",
+    "ctry_en": "Russian Federation",
+    "curr_cd": "RUB",
+    "curr_name": "Russian Ruble",
+    "ap_ican": "UHHH",
+    "ap_ct_kr": "하바롭스크",
+    "ap_kr": "하바롭스크국제공항"
+  },
+  {
+    "ctry_cd": "IDN",
+    "ctry_kr": "인도네시아",
+    "ctry_en": "Indonesia",
+    "curr_cd": "IDR",
+    "curr_name": "Rupiah",
+    "ap_ican": "WIII",
+    "ap_ct_kr": "자카르타",
+    "ap_kr": "수카르노하타국제공항"
+  },
+  {
+    "ctry_cd": "NZL",
+    "ctry_kr": "뉴질랜드",
+    "ctry_en": "New Zealand",
+    "curr_cd": "NZD",
+    "curr_name": "New Zealand Dollar",
+    "ap_ican": "NZAA",
+    "ap_ct_kr": "오클랜드",
+    "ap_kr": "오클랜드국제공항"
+  },
+  {
+    "ctry_cd": "ARE",
+    "ctry_kr": "아랍에미리트",
+    "ctry_en": "United Arab Emirate",
+    "curr_cd": "AED",
+    "curr_name": "UAE Dirham",
+    "ap_ican": "OMDB",
+    "ap_ct_kr": "두바이",
+    "ap_kr": "두바이국제공항"
+  },
+  {
+    "ctry_cd": "BRA",
+    "ctry_kr": "브라질",
+    "ctry_en": "Brazil",
+    "curr_cd": "BRL",
+    "curr_name": "Brazilian Real",
+    "ap_ican": "SBBR",
+    "ap_ct_kr": "브라질리아",
+    "ap_kr": "브라질리아주셀리누쿠비체크국제공항"
+  },
+  {
+    "ctry_cd": "MEX",
+    "ctry_kr": "멕시코",
+    "ctry_en": "Mexico",
+    "curr_cd": "MXN",
+    "curr_name": "Mexican Peso",
+    "ap_ican": "MMMX",
+    "ap_ct_kr": "멕시코시티",
+    "ap_kr": "베니토후아레스국제공항"
+  },
+  {
+    "ctry_cd": "KAZ",
+    "ctry_kr": "카자흐스탄",
+    "ctry_en": "Kazakhstan",
+    "curr_cd": "KZT",
+    "curr_name": "Tenge",
+    "ap_ican": "UAAA",
+    "ap_ct_kr": "알마티",
+    "ap_kr": "알마티국제공항"
+  },
+  {
+    "ctry_cd": "DNK",
+    "ctry_kr": "덴마크",
+    "ctry_en": "Denmark",
+    "curr_cd": "DKK",
+    "curr_name": "Danish Krone",
+    "ap_ican": "EKCH",
+    "ap_ct_kr": "쾨벤하운 ",
+    "ap_kr": "쾨벤하운-카스트루프국제공항"
+  },
+  {
+    "ctry_cd": "IND",
+    "ctry_kr": "인도",
+    "ctry_en": "India",
+    "curr_cd": "INR",
+    "curr_name": "Indian Rupee",
+    "ap_ican": "VABB",
+    "ap_ct_kr": "뭄바이",
+    "ap_kr": "차트라파티시바지국제공항"
+  },
+  {
+    "ctry_cd": "CHL",
+    "ctry_kr": "칠레",
+    "ctry_en": "Chile",
+    "curr_cd": "CLP",
+    "curr_name": "Chilean Peso",
+    "ap_ican": "SECL",
+    "ap_ct_kr": "산티아고",
+    "ap_kr": "코모도로아르투로메리노베니테스국제공항"
+  },
+  {
+    "ctry_cd": "POL",
+    "ctry_kr": "폴란드",
+    "ctry_en": "Poland",
+    "curr_cd": "PLN",
+    "curr_name": "Polish Zloty",
+    "ap_ican": "EPWA",
+    "ap_ct_kr": "바르샤바",
+    "ap_kr": "바르샤바쇼팽국제공항"
+  },
+  {
+    "ctry_cd": "QAT",
+    "ctry_kr": "카타르",
+    "ctry_en": "Qatar",
+    "curr_cd": "QAR",
+    "curr_name": "Qatari Rial",
+    "ap_ican": "OTHH",
+    "ap_ct_kr": "도하",
+    "ap_kr": "도하하마드국제공항"
+  },
+  {
+    "ctry_cd": "TUR",
+    "ctry_kr": "터키",
+    "ctry_en": "Turkey",
+    "curr_cd": "TRY",
+    "curr_name": "Turkish Lira",
+    "ap_ican": "LTAC",
+    "ap_ct_kr": "앙카라",
+    "ap_kr": "에센보가국제공항"
+  },
+  {
+    "ctry_cd": "DZA",
+    "ctry_kr": "알제리",
+    "ctry_en": "Algeria",
+    "curr_cd": "DZD",
+    "curr_name": "Algerian Dinar",
+    "ap_ican": "DAAG",
+    "ap_ct_kr": "알제",
+    "ap_kr": "우아리부메디엔국제공항"
+  },
+  {
+    "ctry_cd": "ZAF",
+    "ctry_kr": "남아프리카공화국",
+    "ctry_en": "South Africa",
+    "curr_cd": "ZAR",
+    "curr_name": "Rand",
+    "ap_ican": "FAOR",
+    "ap_ct_kr": "요하네스버그",
+    "ap_kr": "O.R.탐보국제공항"
+  },
+  {
+    "ctry_cd": "ISR",
+    "ctry_kr": "이스라엘",
+    "ctry_en": "Israel",
+    "curr_cd": "ILS",
+    "curr_name": "New Israeli Sheqel",
+    "ap_ican": "LLBG",
+    "ap_ct_kr": "텔아비브",
+    "ap_kr": "벤구리온국제공항"
+  },
+  {
+    "ctry_cd": "MNG",
+    "ctry_kr": "몽골",
+    "ctry_en": "Mongolia",
+    "curr_cd": "MNT",
+    "curr_name": "Tugrik",
+    "ap_ican": "ZMUB",
+    "ap_ct_kr": "울란바토르",
+    "ap_kr": "칭기즈칸국제공항"
+  },
+  {
+    "ctry_cd": "OMN",
+    "ctry_kr": "오만",
+    "ctry_en": "Oman",
+    "curr_cd": "OMR",
+    "curr_name": "Rial Omani",
+    "ap_ican": "OOMS",
+    "ap_ct_kr": "무스카트",
+    "ap_kr": "무스카트국제공항"
+  },
+  {
+    "ctry_cd": "BGD",
+    "ctry_kr": "방글라데시",
+    "ctry_en": "Bangladesh",
+    "curr_cd": "BDT",
+    "curr_name": "Taka",
+    "ap_ican": "VGHS",
+    "ap_ct_kr": "다카",
+    "ap_kr": "샤잘랄국제공항"
+  },
+  {
+    "ctry_cd": "EGY",
+    "ctry_kr": "이집트",
+    "ctry_en": "Egypt",
+    "curr_cd": "EGP",
+    "curr_name": "Egyptian Pound",
+    "ap_ican": "HECA",
+    "ap_ct_kr": "카이로",
+    "ap_kr": "카이로국제공항"
+  },
+  {
+    "ctry_cd": "KWT",
+    "ctry_kr": "쿠웨이트",
+    "ctry_en": "Kuwait",
+    "curr_cd": "KWD",
+    "curr_name": "Kuwaiti Dinar",
+    "ap_ican": "OKBK",
+    "ap_ct_kr": "쿠웨이트",
+    "ap_kr": "쿠웨이트국제공항"
+  },
+  {
+    "ctry_cd": "LKA",
+    "ctry_kr": "스리랑카",
+    "ctry_en": "Sri Lanka",
+    "curr_cd": "LKR",
+    "curr_name": "Sri Lanka Rupee",
+    "ap_ican": "VCBI",
+    "ap_ct_kr": "콜롬보",
+    "ap_kr": "반다라나이케국제공항"
+  },
+  {
+    "ctry_cd": "SAU",
+    "ctry_kr": "사우디아라비",
+    "ctry_en": "Saudi Arabia",
+    "curr_cd": "SAR",
+    "curr_name": "Saudi Riyal",
+    "ap_ican": "OEJN",
+    "ap_ct_kr": "제다",
+    "ap_kr": "킹압둘아지즈국제공항"
+  },
+  {
+    "ctry_cd": "BRN",
+    "ctry_kr": "브루나이",
+    "ctry_en": "Brunei Darussalam",
+    "curr_cd": "BND",
+    "curr_name": "Brunei Dollar",
+    "ap_ican": "WBSB",
+    "ap_ct_kr": "반다르스리브가완",
+    "ap_kr": "브루나이국제공항"
+  },
+  {
+    "ctry_cd": "BHR",
+    "ctry_kr": "바레인",
+    "ctry_en": "Bahrain",
+    "curr_cd": "BHD",
+    "curr_name": "Bahraini Dinar",
+    "ap_ican": "OBBI",
+    "ap_ct_kr": "마나마",
+    "ap_kr": "바레인국제공항"
+  },
+  {
+    "ctry_cd": "PAK",
+    "ctry_kr": "파키스탄",
+    "ctry_en": "Pakistan",
+    "curr_cd": "PKR",
+    "curr_name": "Pakistan Rupee",
+    "ap_ican": "OPRN",
+    "ap_ct_kr": "이슬라마바드",
+    "ap_kr": "베나지르부토국제공항"
+  }
+]
